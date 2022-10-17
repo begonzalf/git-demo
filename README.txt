@@ -1,3 +1,4 @@
+
 #Demo Git Repository
 
 This is the first file in this repo - line 1
@@ -6,6 +7,8 @@ This is the first file in this repo - line 1
 
 Some text here - line 2
 
-## Another line
+## Another few lines
 
 This is line 3
+
+This is line 4
